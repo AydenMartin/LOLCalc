@@ -1,47 +1,70 @@
 HAI 1.2
-    OBTW
-        SOME CALCULATOR PROMPTS HERE ABOUT
-        EXPRESSIONS AND ALL THAT JAZZ
-        PROPER USE
-    TLDR
-    I HAS A INPUT ITZ A YARN
+    VISIBLE ":):):)Author iz Ayden Martin"
+    VISIBLE "Tis is mah Calc in LOLCODE for cis343"
+    VISIBLE "it supports *,/,+,-"
+    VISIBLE "PROPER USE Plez put in x newline operator newline y"
+    VISIBLE "Moar proper use, can support floats and integers, plz no string :) :):):):):)"
+
+    I HAS A INPUT
     I HAS A X
-    I HAS A OPERATOR ITZ A YARN
+    I HAS A OPERATOR
     I HAS A Y
-    I HAS A ANS 
+    I HAS A ANS ITZ 0
 
     IM IN YR CALC 
     
     BTW THIS IS THE CALCULATOR LOOP, TAKES INPUTES UNTIL QUIT IS ENTERED
-        GIMMEH INPUT
         VISIBLE "INPUT QUIT TO QUIT CALCULATOR, JUST HIT ENTER TO CONT"
+        GIMMEH INPUT
         BOTH SAEM INPUT AN "QUIT", O RLY?
             YA RLY
                 VISIBLE "TY FOR USIN DA CALC"
                 GTFO
             NO WAI
-                VISIBLE "GIMME X OPERATOR Y IN THAT ORDER EACH ON A NEW LINE"
+                VISIBLE "GIMME X value"
                 GIMMEH X
-                VISIBLE X
+                X IS NOW A NUMBAR
+                BOTH SAEM X AN "ans", O RLY?
+                    YA RLY 
+                        X R ANS
+                    NO WAI
+                    OIC
+                VISIBLE "Gimme da operator [+,-,*,/]"
                 GIMMEH OPERATOR
-                VISIBLE OPERATOR
+                VISIBLE "GIMME Y VALUE"
                 GIMMEH Y
-                VISIBLE Y
-                OBTW
+                Y IS NOW A NUMBAR
+                BOTH SAEM Y AN "ans", O RLY?
+                    YA RLY 
+                        Y R ANS
+                    NO WAI
+                    OIC
+
+
+
                 OPERATOR, WTF?
                     OMG "/"
-                        ANS R QUOSHUNT OF X AN Y
+                        BOTH SAEM Y AN "0", O RLY?
+                          YA RLY
+                            VISIBLE "DONT DEVID BY ZERA REATAR, ANS is Prev ANS"
+                          NO WAI
+                            ANS R QUOSHUNT OF X AN Y
+                          OIC
+                        GTFO
                     OMG "*"
                         ANS R PRODUKT OF X AN Y
+                        GTFO
                     OMG "+"
                         ANS R SUM OF X AN Y
+                        GTFO
                     OMG "-"
                         ANS R DIFF OF X AN Y
+                        GTFO
                     OMGWTF
-                        VISIBLE "yOU NO ENTER VALID OPERATOR, YOU DUMMYDUM"
+                        VISIBLE "yOU NO ENTER VALID OPERATOR, YOU DUMMYDUM" OPERATOR
                     OIC
                 VISIBLE "YOUR ANS IS " ANS
-                TLDR
             OIC
     IM OUTTA YR CALC
+
 KTHXBYE
