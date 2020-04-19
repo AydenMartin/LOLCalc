@@ -1,0 +1,47 @@
+HAI 1.2
+    OBTW
+        SOME CALCULATOR PROMPTS HERE ABOUT
+        EXPRESSIONS AND ALL THAT JAZZ
+        PROPER USE
+    TLDR
+    I HAS A INPUT ITZ A YARN
+    I HAS A X
+    I HAS A OPERATOR ITZ A YARN
+    I HAS A Y
+    I HAS A ANS 
+
+    IM IN YR CALC 
+    
+    BTW THIS IS THE CALCULATOR LOOP, TAKES INPUTES UNTIL QUIT IS ENTERED
+        GIMMEH INPUT
+        VISIBLE "INPUT QUIT TO QUIT CALCULATOR, JUST HIT ENTER TO CONT"
+        BOTH SAEM INPUT AN "QUIT", O RLY?
+            YA RLY
+                VISIBLE "TY FOR USIN DA CALC"
+                GTFO
+            NO WAI
+                VISIBLE "GIMME X OPERATOR Y IN THAT ORDER EACH ON A NEW LINE"
+                GIMMEH X
+                VISIBLE X
+                GIMMEH OPERATOR
+                VISIBLE OPERATOR
+                GIMMEH Y
+                VISIBLE Y
+                OBTW
+                OPERATOR, WTF?
+                    OMG "/"
+                        ANS R QUOSHUNT OF X AN Y
+                    OMG "*"
+                        ANS R PRODUKT OF X AN Y
+                    OMG "+"
+                        ANS R SUM OF X AN Y
+                    OMG "-"
+                        ANS R DIFF OF X AN Y
+                    OMGWTF
+                        VISIBLE "yOU NO ENTER VALID OPERATOR, YOU DUMMYDUM"
+                    OIC
+                VISIBLE "YOUR ANS IS " ANS
+                TLDR
+            OIC
+    IM OUTTA YR CALC
+KTHXBYE
