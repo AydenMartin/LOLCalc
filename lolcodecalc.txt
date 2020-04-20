@@ -3,7 +3,7 @@ HAI 1.2
     VISIBLE "Tis is mah Calc in LOLCODE for cis343"
     VISIBLE "it supports *,/,+,-"
     VISIBLE "PROPER USE Plez put in x newline operator newline y"
-    VISIBLE "Moar proper use, can support floats and integers, plz no string :) :):):):):)"
+    VISIBLE "Moar proper use, can support floats and integers, plz no string except ans :) :):):):):)"
 
     I HAS A INPUT
     I HAS A X
@@ -21,27 +21,24 @@ HAI 1.2
                 VISIBLE "TY FOR USIN DA CALC"
                 GTFO
             NO WAI
-                VISIBLE "GIMME X value"
-                GIMMEH X
-                X IS NOW A NUMBAR
+                VISIBLE "GIMME X value or ans"
+                GIMMEH X               
                 BOTH SAEM X AN "ans", O RLY?
                     YA RLY 
                         X R ANS
                     NO WAI
+                    X IS NOW A NUMBAR
                     OIC
                 VISIBLE "Gimme da operator [+,-,*,/]"
                 GIMMEH OPERATOR
-                VISIBLE "GIMME Y VALUE"
+                VISIBLE "GIMME Y VALUE or ans"
                 GIMMEH Y
-                Y IS NOW A NUMBAR
                 BOTH SAEM Y AN "ans", O RLY?
                     YA RLY 
                         Y R ANS
                     NO WAI
+                    X IS NOW A NUMBAR
                     OIC
-
-
-
                 OPERATOR, WTF?
                     OMG "/"
                         BOTH SAEM Y AN "0", O RLY?
